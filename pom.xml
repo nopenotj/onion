@@ -22,7 +22,7 @@
     <modules>
         <module>application</module>
         <module>domain-service</module>
-        <module>domain</module>
+        <module>domain-model</module>
     </modules>
 
     <dependencyManagement>
@@ -34,7 +34,7 @@
             </dependency>
             <dependency>
                 <groupId>com.example</groupId>
-                <artifactId>domain</artifactId>
+                <artifactId>domain-model</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
             </dependency>
         </dependencies>

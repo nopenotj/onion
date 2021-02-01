@@ -8,6 +8,6 @@
         <artifactId>demo</artifactId>
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>domain</artifactId>
+    <artifactId>domain-model</artifactId>
 
 </project>

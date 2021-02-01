@@ -1,6 +1,6 @@
-package com.example.domain.service;
+package com.example.application.services;
 
-import com.example.domain.Transaction;
+import com.example.domain.model.Transaction;
 import org.springframework.stereotype.Service;
 
 @Service
