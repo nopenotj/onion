@@ -21,6 +21,11 @@
             <artifactId>domain-service</artifactId>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>infrastructure</artifactId>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
 
